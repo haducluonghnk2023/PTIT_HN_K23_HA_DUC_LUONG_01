@@ -21,7 +21,7 @@ public class Student implements IApp {
     public Student() {
     }
 
-    // Getters and setters
+
     public String getStudentId() {
         return studentId;
     }
